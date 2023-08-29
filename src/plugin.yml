@@ -1,0 +1,8 @@
+name: JandySimpleTransfer
+main: org.jandy.JandySimpleTransfer.main
+version: 1.0.0
+author: jandy
+commands:
+  test:
+    description: abc
+    usage: /test
