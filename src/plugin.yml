@@ -3,6 +3,12 @@ main: org.jandy.JandySimpleTransfer.main
 version: 1.0.0
 author: jandy
 commands:
-  test:
+  tpa:
     description: abc
-    usage: /test
+    usage: /tpa
+  tpaccept:
+    description: abc
+    usage: /tpaccept
+  tpdeny:
+    description: abc
+    usage: /tpdeny
