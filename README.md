@@ -1,4 +1,5 @@
 # jandy的简单传送
+## 此插件已放弃更新
 
 [English](README_en.md) | 中文
 
